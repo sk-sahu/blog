@@ -17,8 +17,8 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Sangram Keshari sahu"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+disqusShortname = "sangram_ksahu"
+googleAnalytics = "UA-104224512-4"
 paginate = 7
 canonifyurls = true
 
@@ -32,8 +32,8 @@ canonifyurls = true
 
 [author]
   name = "Sangram Keshari Sahu"
-  bio = "Computational Biologist and Bioinformatics"
-  job = "Junior Research Fellow"
+  bio = "Research in the filed of Computational Biology and Bioinformatics."
+  job = "Genomics Data Scientist"
   location = "India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "sangramsahu15@gmail.com"
@@ -118,7 +118,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Sangram Keshari Sahu Blog Site"
 
   # Customization
   # Define the behavior of the sidebar
