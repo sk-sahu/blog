@@ -1,2 +1,1 @@
-# blog
-blogging site
+Help - https://github.com/kakawait/hugo-tranquilpeak-theme/

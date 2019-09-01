@@ -12,27 +12,12 @@
     
     
     <item>
-      <title>Using Conda for Bioinformatics</title>
-      <link>/2019/07/using-conda-for-bioinformatics/</link>
+      <title>Test blog</title>
+      <link>/2019/07/test-blog/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/07/using-conda-for-bioinformatics/</guid>
-      <description>
-
-
-</description>
-    </item>
-    
-    <item>
-      <title>Using docker</title>
-      <link>/2019/07/using-docker/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/07/using-docker/</guid>
-      <description>
-
-
-</description>
+      <guid>/2019/07/test-blog/</guid>
+      <description></description>
     </item>
     
   </channel>

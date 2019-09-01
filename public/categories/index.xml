@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>conda</title>
-      <link>/categories/conda/</link>
+      <title>blog</title>
+      <link>/categories/blog/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/conda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>/categories/docker/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/docker/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     

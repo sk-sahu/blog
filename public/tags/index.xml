@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>conda</title>
-      <link>/tags/conda/</link>
+      <title>test</title>
+      <link>/tags/test/</link>
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/conda/</guid>
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     
@@ -26,15 +26,6 @@
       <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/workflows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>/tags/docker/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/docker/</guid>
       <description></description>
     </item>
     
